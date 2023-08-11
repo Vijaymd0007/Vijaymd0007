@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vijay</h1>
+<h1 align="center">Hi 👋, I'm Vijay M D</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 - 💬 Ask me about **Javascript,React.js,Node.js,express.js,MongoDB,MySQL**
@@ -10,7 +10,7 @@
 <a href="https://twitter.com/vijiimd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijiimd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vijay-m-d-4a65a7220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-m-d-4a65a7220" height="30" width="40" /></a>
 <a href="https://instagram.com/vijii007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijii007" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/vijaymd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vijaymd/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vijaymd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vijaymd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
