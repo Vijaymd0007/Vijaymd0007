@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijay M D</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
-- 💬 Ask me about **Javascript,React.js,Node.js,express.js,MongoDB,MySQL**
+- 💬 Ask me about **Javascript,React.js,Node.js,express.js,MongoDB and MySQL**
 
 - 📫 How to reach me **vijaymg0007@gmail.com**
 
