@@ -18,4 +18,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaymd0007&show_icons=true&locale=en&layout=compact" alt="vijaymd0007" /></p>
 
-[![](https://visitcount.itsvg.in/api?id=vijaymd0007&label=Profile%20Views&color=1&icon=4&pretty=false)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaymd0007&label=Profile%20views&color=0e75b6&style=flat" alt="vijaymd0007" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
